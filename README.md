@@ -10,7 +10,7 @@ exits.
 Installation requires Herdr 0.8.2 or newer:
 
 ```sh
-herdr plugin install choplin/herdr-plugins/herdr-split-pane
+herdr plugin install choplin/herdr-split-pane
 ```
 
 ## Example
