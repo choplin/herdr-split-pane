@@ -65,3 +65,7 @@ The plugin has no build step. Link it from the repository root:
 ```sh
 herdr plugin link ./herdr-split-pane --enabled
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
