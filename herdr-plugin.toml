@@ -1,6 +1,6 @@
 id = "choplin.split-pane"
 name = "Split Pane"
-version = "0.1.0"
+version = "0.1.1"
 min_herdr_version = "0.8.2"
 description = "Open a caller-provided command directly in a split pane"
 platforms = ["linux", "macos"]
